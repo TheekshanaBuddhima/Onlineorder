@@ -1,0 +1,1 @@
+ALL RIGHT RESERVED &copy <?php echo date("Y"); ?>
